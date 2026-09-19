@@ -10,4 +10,4 @@ This project includes the design of a cartoon character created and edited in Ad
 
 ## Preview
 
-![Boy Character](screenshots/boy-character.png)
+![Boy Character](boy.png)
